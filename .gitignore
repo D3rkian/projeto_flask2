@@ -6,8 +6,8 @@ __pycache__/
 *.pyc
 
 # Banco de Dados (opcional, mas recomendado para não salvar o banco no git)
-db.sqlite3
-/dbase/
+#db.sqlite3
+#/dbase/
 
 # Arquivos de configuração de ambiente
-.flaskenv
+#.flaskenv
